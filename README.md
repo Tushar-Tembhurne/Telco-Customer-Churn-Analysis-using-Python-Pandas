@@ -56,6 +56,4 @@ Libraries: pandas, seaborn, matplotlib
 
 
 
-* **Language:** Python
-* **Environment:** Jupyter Notebook
-* **Libraries:** `pandas`, `seaborn`, `matplotlib`
+
